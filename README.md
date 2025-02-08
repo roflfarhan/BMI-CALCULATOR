@@ -4,8 +4,6 @@ This repository consists of a simple yet efficient BMI calculator scripted using
 
 ## Table of content
 
-- [Repo Guide](#repo-guide)
-- [Summary](#summary)
     - [About BMI](#about-bmi)
     - [About the calculator](#about-the-calculator)
 - [Running the calculator](#running-the-calculator)
@@ -44,8 +42,3 @@ Salient features of this calculator:
 3. Provide **health risk data** depending on your BMI.
 4. Provides **approximate weight to be lost** in order to attain a **normal BMI**.
 
-## Resources
-
-1. **Python:** [python.org](https://www.python.org)
-2. **C:** [Intro to C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
-3. **BMI:** [Learn more about BMI.](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index)
